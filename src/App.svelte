@@ -1,4 +1,7 @@
 <script>
+  import Dark from "./Dark.svelte";
 </script>
 
-<main></main>
+<main class="w-full h-dv-screen">
+  <Dark />
+</main>
